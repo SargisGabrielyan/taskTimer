@@ -1,0 +1,5 @@
+.idea
+.vscode
+node modules
+dist/js
+npm-debug.loggit commit -m "first commit"
